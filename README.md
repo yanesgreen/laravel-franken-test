@@ -9,6 +9,6 @@ run with 125 conc with 1000 request
 **Bombardier Test Results**
 
 | **Statistics** | **Avg** | **Stdev** | **Max** |
-|---|---|---|---|
-| Reqs/sec | 3906.81 | 2275.65 | 6917.92 |
-| Latency | 32.03ms | 16.06ms | 126.78ms |
+|---|--------|-----------|--------|
+| Reqs/sec | 125.80 | 40.66     | 267.40 |
+| Latency | 0.95s  | 118.85ms  | 1.60s  |
